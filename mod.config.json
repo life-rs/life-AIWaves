@@ -1,0 +1,9 @@
+{
+	"name": "AIWaves",
+	"author": "life",
+	"version": "1.0.0",
+	"license": "MIT",
+	"src": {
+		"src/script.js": "TamperModLoad"
+	}
+}
